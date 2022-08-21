@@ -1,0 +1,14 @@
+RefrigeradorA,0.751,999.90
+RefrigeradorB,0.635,849.00
+RefrigeradorC,0.870,1199.89
+Celular,0.0000899,2199.12
+TV55,0.400,4346.99
+TV50,0.290,3999.90
+TV42,0.200,2999.90
+NotebookA,0.00350,2499.90
+NotebookB,0.498,1999.90
+NotebookC,0.527,3999.00
+Ventilador,0.496,199.90
+MicroondasA,0.0424,308.66
+MicroondasB,0.0544,429.90
+MicroondasC,0.0319,299.29

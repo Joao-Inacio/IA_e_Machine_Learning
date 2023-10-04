@@ -6,7 +6,7 @@ Neste curso você terá uma visão teórica e principalmente prática sobre as p
 
 ---
 
-## Tecnologias
+## **Tecnologias:**
 
 <div>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Logo Python" height="50" width="60" />
@@ -17,4 +17,10 @@ Neste curso você terá uma visão teórica e principalmente prática sobre as p
     <img align="center" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Logo Matplotlib" height="50" width="60" />
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Logo Scikit_learn" height="50" width="60" />
     <img align="center" src="https://orangedatamining.com/images/orange_title_scaled.png" alt="Logo Scikit_learn" height="50" width="80" />
+</div>
+
+## **Certificado**
+
+<div>
+    <img align="center" src="https://udemy-certificate.s3.amazonaws.com/image/UC-fa6e3435-ede6-4a52-bfee-263435bf51d4.jpg" />
 </div>
